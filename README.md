@@ -1,5 +1,5 @@
 # Repository Name: Colab Laboratory Notebooks for Artificial Intelligence and Signal Processing 
-![alt text](https://github.com/AlexandruRO45/Colab_AI_LSBU/blob/main/pngwing.com.png)
+![alt text](https://macesbd.com/wp-content/uploads/2021/11/London-South-Bank-University-980x551.png)
 
 Welcome to the Laboratory Code and Experiments repository! This repository contains a collection of code and experiments that cover various topics ranging from introductory concepts to advanced data analysis. The purpose of this repository is to provide a comprehensive learning resource for individuals interested in Python programming, data analysis, and visualization.
 
